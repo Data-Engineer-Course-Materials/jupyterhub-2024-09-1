@@ -5,6 +5,8 @@
 1. Native
 2. Docker
 
+Production-ready: k8s cluster https://z2jh.jupyter.org/en/1.x/jupyterhub/index.html
+
 ## Uninstall
 
 ```shell
