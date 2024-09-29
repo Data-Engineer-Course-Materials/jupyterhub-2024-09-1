@@ -1,4 +1,5 @@
-# jupyterhub-2024-09-1
+# Курс "Основы JupyterHub"
+Группа **jupyterhub-2024-09-1**
 
 ## Install
 
