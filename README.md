@@ -2,7 +2,7 @@
 
 ## Install
 
-1. Native
+1. Native (https://shakhbanov.org/kak-ustanovit-jupyterhub-na-vash-server-poshagovoe-rukovodstvo/)
 2. Docker
 
 Production-ready: 
